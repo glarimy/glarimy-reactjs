@@ -1,0 +1,25 @@
+body {
+	font-family: arial;
+}
+
+.title {
+	color: #0BB;
+	padding-bottom: 5px;
+	border-bottom: 1px dotted #0BB;
+}
+
+.visible {
+	display: inline;
+}
+
+.invisible {
+	display: none;
+}
+
+.required {
+	font-weight: bold;
+}
+
+.error {
+	color: red;
+}
