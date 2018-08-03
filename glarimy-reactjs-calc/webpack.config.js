@@ -2,7 +2,7 @@ config = {
    entry: './main.js',
 	
    output: {
-      path:'/Users/glarimy/Professional/Workspace/Glarimy-ReactJS/yodlee-calc/target',
+      path:'/Users/glarimy/Professional/Workspace/Glarimy-ReactJS/glarimy-react-calc/target',
       filename: 'index.js',
    },
 	
