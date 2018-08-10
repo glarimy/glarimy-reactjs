@@ -1,0 +1,45 @@
+{
+	"folders": [{
+		"title": "Inbox",
+		"mails": [{
+			"date": "8 Aug 2018",
+			"from": "Krishna Mohan Koyya",
+			"subject": "Good Morning"
+		},{
+			"date": "8 Aug 2018",
+			"from": "Krishna Mohan Koyya",
+			"subject": "Good Morning"
+		},{
+			"date": "8 Aug 2018",
+			"from": "Krishna Mohan Koyya",
+			"subject": "Good Morning"
+		},{
+			"date": "8 Aug 2018",
+			"from": "Krishna Mohan Koyya",
+			"subject": "Good Morning"
+		}]
+	},{
+		"title": "Sent",
+		"mails": [{
+			"date": "10 Aug 2018",
+			"from": "Krishna Mohan Koyya",
+			"subject": "Good Morning"
+		}]
+	},{
+		"title": "Spam",
+		"mails": [{
+			"date": "9 Aug 2018",
+			"from": "Krishna Mohan Koyya",
+			"subject": "Good Morning"
+		},{
+			"date": "9 Aug 2018",
+			"from": "Krishna Mohan Koyya",
+			"subject": "Good Morning"
+		},{
+			"date": "9 Aug 2018",
+			"from": "Krishna Mohan Koyya",
+			"subject": "Good Morning"
+		}]
+	}],
+	"current": "Inbox"
+}
