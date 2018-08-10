@@ -1,0 +1,25 @@
+{
+    "language": "Hindi",
+    "movies": [
+        {
+            "title": "First Hindi Movie",
+            "rating": 2,
+            "id": 1
+        },
+        {
+            "title": "Second Hindi Movie",
+            "rating": 4,
+            "id": 2
+        },
+        {
+            "title": "Third Hindi Movie",
+            "rating": 3,
+            "id": 3
+        },
+        {
+            "title": "Fourth Hindi Movie",
+            "rating": 3,
+            "id": 4
+        }
+    ]
+}
