@@ -1,0 +1,25 @@
+{"questions":[{
+	"id": 1,
+	"description":"What is true about ReactJS?",
+	"a": "ReactJS is a server side framework",
+	"b": "ReactJS runs only on NodeJS",
+	"c": "ReactJS is a Component Framework",
+	"d": "None of the above",
+	"answer": "c"
+},{
+	"id": 2,
+	"description":"Which of the following methods must be implemented in every ReactJS Component?",
+	"a": "render",
+	"b": "constructor",
+	"c": "both",
+	"d": "None",
+	"answer": "a"
+},{
+	"id": 3,
+	"description":"Which of the following is immutable?",
+	"a": "properties",
+	"b": "state",
+	"c": "both",
+	"d": "none",
+	"answer": "a"
+}]}
