@@ -1,0 +1,25 @@
+{"questions":[{
+    "qid": 1,
+	"question": "What is WHO stands for?",
+	"a": "Wealth and Health Organization",
+    "b": "World Health Organization",
+    "c": "World Human Organization",
+    "d": "None of the above",
+    "answer": "b"
+},{
+    "qid": 2,
+	"question": "Which city is known as Garden City?",
+	"a": "Bengaluru",
+    "b": "Mysuru",
+    "c": "Simla",
+    "d": "Kolkota",
+    "answer": "a"
+},{
+    "qid": 3,
+	"question": "How many electrons present in the atom of Hydrogen?",
+	"a": "1",
+    "b": "2",
+    "c": "3",
+    "d": "0",
+    "answer": "a"
+}]}
